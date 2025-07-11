@@ -87,11 +87,15 @@ body{
 }
 .title{
     max-width: 300px;
+    
+    
 }
 .section-title{
     font-weight: bold;
-    font-size: 32px;
+    font-size: 40px;
     color: rgba(46, 44, 62, 1);
+   
+
 }
 .section-sub-title{
     font-size: 18px;
@@ -150,8 +154,12 @@ start-header h2 {
   margin-bottom: 30px;
 }
 .focus-head{
-    padding: 20px 0px
-;
+    padding: 20px 0px;
+
+}
+.focus-head h1{
+    font-size: 50px;
+     
 }
 .image-container{
     border-radius: 20px;
@@ -246,6 +254,7 @@ nav li {
     gap: 10px;
     justify-items: center;
     align-items: center;
+    color:rgba(247, 240, 240, 0.7);
 }
 .avatar{
     height: 50px;
