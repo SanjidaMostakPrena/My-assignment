@@ -47,7 +47,8 @@ body{
 }
 
 .button-primary:hover {
-  background-color: rgba(77, 71, 255, 1);
+  background-color:yellow;
+  color: black;
 }
 
 
