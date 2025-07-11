@@ -254,7 +254,10 @@ nav li {
     gap: 10px;
     justify-items: center;
     align-items: center;
-    color:rgba(247, 240, 240, 0.7);
+    color:gray;
+}
+.hp h5 p{
+color:gray;
 }
 .avatar{
     height: 50px;
